@@ -1,11 +1,12 @@
 # Chatbot-using-Dialog-flow-End-to-End-NLP-project-
 This project is creating a chatbot using the Dialog Flow platform.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-requirements: Dialog Flow 
-              MySQL Workbench
-              fastapi[all]  => (Backend)
-              mysql-connector-python
-              ngrok  ==>  (to create a secure connection)
+requirements:</br>
+              Dialog Flow </br>
+              MySQL Workbench</br>
+              fastapi[all]  => (Backend)</br>
+              mysql-connector-python</br>
+              ngrok  ==>  (to create a secure connection)</br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 scope of Work: 
