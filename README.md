@@ -24,6 +24,8 @@ This project is creating a chatbot using the Dialog Flow platform.
 ## Database setup:
 
 ## Backend       :
+ 
+## Frontend      :
 
 
 
