@@ -73,7 +73,7 @@ In this case, the chatbot helps customers place an order and track an order.
      I implemented the backend code using the Python FastAPI in PyCharm. 
      I implemented it in three files.  
    
-         - Main             ==>  Handle the request and extract the required details from the payload. 
+         - Main             ==>  Handle the request and extract the required details from the payload(Response of the Chatbot). 
                                  functions for different intents(add, remove, complete, track order).
                                  
                                  libraries:  from fastapi import Request
